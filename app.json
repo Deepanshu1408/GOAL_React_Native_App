@@ -1,0 +1,12 @@
+{
+  "name": "goal",
+  "displayName": "goal",
+  "expo": {
+    "name": "goal",
+    "slug": "goal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
